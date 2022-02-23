@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskDemo</string>
+
+    <string name="product_name">Name</string>
+    <string name="product_price">Price</string>
+    <string name="currency">EGP</string>
+    <string name="add_product">Add Product</string>
+</resources>

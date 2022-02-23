@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskDemo</string>
+
+    <string name="product_name">إسـم المنُتج</string>
+    <string name="product_price">السعر</string>
+    <string name="currency">ج</string>
+    <string name="add_product">إضافة منتج</string>
+
+</resources>
